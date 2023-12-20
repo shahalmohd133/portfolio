@@ -1,0 +1,50 @@
+.head{
+  width: 100%;
+  height: 25px;
+  background-color: black;
+  display: flex;
+}
+.title{
+  padding: 3px;
+  color: white;
+  margin-left: 7px;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: small;
+}
+.menu{
+  color: white;
+  padding-left: 10px;
+  padding-top: 3px;
+}
+.mode{
+  color: white;
+  padding-left: 1120px;
+  padding-top: 5px;
+  font-size: small; 
+}
+.banner{
+  background-color: black;
+  width: 100%;
+  height: 81vh;
+  display: flex;
+}
+.image{
+  width: 100%;
+   text-align: right;
+}
+.banner_title{
+  color: white;
+  width: 80%;
+  padding-left: 110px;
+  padding-top: 140px;
+  font-size: large;
+}
+.btn{
+     padding: 5px;
+     margin-right: 20px;
+     background-color: black;
+     color: white;
+     border-color: white;
+    border-style: groove;
+    font-size: x-small;
+}
